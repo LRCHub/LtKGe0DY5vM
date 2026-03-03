@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "風になって",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2026-03-03T01:56:25.723724Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風になって",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/01_風になって_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風になって - 1 Half ver.",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/02_風になって_-_1_Half_ver._[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風になって~勇者的浪漫~(Movie Ver.)",
+      "artist": "Rake",
+      "has_synced": false,
+      "path": "select/03_風になって~勇者的浪漫~(Movie_Ver.)_Rake.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "今、風になって (GENERATIONS LIVE TOUR 2023 \"THE STORY\")",
+      "artist": "GENERATIONS from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/04_今、風になって_(GENERATIONS_LIVE_TOUR_2023__THE_STORY_)_GENERATIONS_from_EXILE_TRIBE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風になって～勇者的浪漫～",
+      "artist": "Rake&.中孝介",
+      "has_synced": false,
+      "path": "select/05_風になって~勇者的浪漫~_Rake&.中孝介.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風になって",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_風になって_[Alexandros].txt"
+    }
+  ]
+}
